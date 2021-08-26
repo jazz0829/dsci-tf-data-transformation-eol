@@ -1,0 +1,248 @@
+{
+  "settings": [
+    {
+      "table_name": "ContractMutations",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ContractEvents",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ConversionStatus",
+      "is_enabled": true
+    },
+    {
+      "table_name": "CreditManagementStatus",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Accounts",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ActivitySectors",
+      "is_enabled": true
+    },
+    {
+      "table_name": "AppUsageFreeReasons",
+      "is_enabled": true
+    },
+    {
+      "table_name": "AppUsageLines",
+      "is_enabled": true
+    },
+    {
+      "table_name": "BlockingStatus",
+      "is_enabled": true
+    },
+    {
+      "table_name": "BusinessTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Classifications",
+      "is_enabled": true
+    },
+    {
+      "table_name": "CompanySizes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Contacts",
+      "is_enabled": true
+    },
+    {
+      "table_name": "CustomerSubscriptionStatistics",
+      "is_enabled": true
+    },
+    {
+      "table_name": "DivisionDivisionTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ItemFeaturesets",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Featuresets",
+      "is_enabled": true
+    },
+    {
+      "table_name": "DivisionStatistics",
+      "is_enabled": true
+    },
+    {
+      "table_name": "DivisionTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Documents",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ExchangeRates",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ExchangeRateTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "FirstAppUsage",
+      "is_enabled": true
+    },
+    {
+      "table_name": "FirstAppUsagePerDivision",
+      "is_enabled": true
+    },
+    {
+      "table_name": "GLTransactionSources",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ItemClasses",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ItemRelationRelations",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ItemRelations",
+      "is_enabled": true
+    },
+    {
+      "table_name": "TimeCostTransactions",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Units",
+      "is_enabled": true
+    },
+    {
+      "table_name": "UsageEntitlements",
+      "is_enabled": true
+    },
+    {
+      "table_name": "UsageTransactions",
+      "is_enabled": true
+    },
+    {
+      "table_name": "UserDivisionHistory",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Users",
+      "is_enabled": true
+    },
+    {
+      "table_name": "UserTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "UserUserTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ItemRelationTypes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Items",
+      "is_enabled": true
+    },
+    {
+      "table_name": "LeadSources",
+      "is_enabled": true
+    },
+    {
+      "table_name": "MonthlyAppUsage",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OAuthClients",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OAuthClientUsers",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Opportunities",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OpportunityStages",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OpportunityStatus",
+      "is_enabled": true
+    },
+    {
+      "table_name": "PaymentTerms",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Persons",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Projects",
+      "is_enabled": true
+    },
+    {
+      "table_name": "SubscriptionQuotations",
+      "is_enabled": true
+    },
+    {
+      "table_name": "SurveyResults",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ContractLines",
+      "folder_name": "CIG_Contractlines",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Contracts",
+      "folder_name": "CIG_Contracts",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Divisions",
+      "folder_name": "CIG_Divisions",
+      "is_enabled": true
+    },
+    {
+      "table_name": "Requests",
+      "folder_name": "CIG_Requests",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OAuthClientContracts",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OAuthScopes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "OAuthClientScopes",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ActiveUserDivisions",
+      "is_enabled": true
+    },
+    {
+      "table_name": "ActiveUserRoles",
+      "is_enabled": true
+    },
+    {
+      "table_name": "DivisionTypeFeatureSets",
+      "is_enabled": true
+    }
+  ]
+}
